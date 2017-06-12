@@ -1,0 +1,28 @@
+body {
+  background-color:#ff0000;
+}
+
+
+h1 {color: blue;
+font-family: cursive, helvetica;
+font-size: 220%;
+border: 1px solid black;
+/*padding: 60px;*/
+margin: 100px;
+}
+
+
+#special-paragraph {
+  color: powderblue;
+}
+
+.main-content {
+  color: blue;
+}
+img {width 20%
+}
+
+
+table,tr, td {
+  border: 3px solid black
+padd}
